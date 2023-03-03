@@ -1,0 +1,119 @@
+/* .similar-list-docs {
+  background-color: #202020;
+  margin: 20px;
+  padding: 28px;
+  width: 370px;
+  border-radius: 15px;
+}
+.logo-container {
+  display: flex;
+  align-items: center;
+  margin-bottom: 15px;
+}
+.company-logo-url {
+  width: 60px;
+  margin-right: 20px;
+}
+.company-logo-title {
+  color: #fff;
+  font-family: 'Roboto';
+  font-size: 24px;
+  font-weight: 700;
+}
+.display-rating {
+  display: flex;
+}
+.similar-desc-heading {
+  color: #fff;
+  font-size: 24px;
+  font-family: 'Roboto';
+  margin-bottom: 15px;
+}
+.similar-desc {
+  color: #fff;
+  font-size: 16px;
+  font-family: 'Roboto';
+  line-height: 2;
+}
+.location-container-flex-justify {
+  display: flex;
+  margin-top: 15px;
+} */
+
+.similar-job-card {
+  width: 340px;
+  min-height: 350px;
+  background-color: #272727;
+
+  margin-right: 35px;
+  margin-bottom: 25px;
+
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  padding: 22px;
+  cursor: pointer;
+  outline: none;
+}
+.company-logo {
+  width: 60px;
+  margin-right: 15px;
+}
+.title-heading {
+  color: #ffffff;
+  font-family: Roboto;
+  font-size: 22px;
+  margin-bottom: 0;
+  padding-bottom: 0;
+}
+.star-icon {
+  color: #fbbf24;
+  font-size: 20px;
+  margin-right: 12px;
+}
+.rating {
+  color: #ffffff;
+  font-family: Roboto;
+  font-size: 15px;
+  font-weight: 500;
+  margin-left: 0px;
+}
+.rating-container {
+  display: flex;
+  align-items: center;
+  margin-top: 0;
+}
+.logo-container {
+  display: flex;
+  align-items: center;
+}
+.location-icon {
+  color: #ffffff;
+  font-size: 20px;
+  margin-right: 12px;
+}
+.location-container {
+  display: flex;
+  align-items: center;
+  margin-top: 0;
+}
+.location-employment-container {
+  display: flex;
+  flex-direction: row;
+}
+
+.line {
+  color: #b6c5ff;
+  width: 100%;
+}
+.similar-job-description-head {
+  color: #ffffff;
+  font-family: Roboto;
+  font-size: 18px;
+  margin-bottom: 0;
+}
+.description-paragraph {
+  color: #ffffff;
+  font-family: Roboto;
+  font-size: 15px;
+}

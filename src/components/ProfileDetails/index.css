@@ -1,0 +1,88 @@
+/* .profile-container {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/profile-bg.png');
+  background-size: cover;
+  width: 300px;
+  align-self: flex-start;
+  border-radius: 15px;
+  padding: 20px;
+  margin-bottom: 25px;
+}
+
+.profile-loader-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 200px;
+}
+
+.profile-logo {
+  width: 50px;
+}
+
+.name-heading {
+  color: #6366f1;
+  font-size: 22px;
+  font-family: 'Roboto';
+  font-weight: 800;
+  margin-top: 15px;
+}
+
+.bio {
+  color: #475569;
+  font-size: 16px;
+  font-family: 'Roboto';
+  margin-top: 15px;
+  line-height: 1.8;
+}
+
+.job-item-failure-button {
+  background-color: #6366f1;
+  padding: 12px;
+  width: 110px;
+  border: none;
+  font-size: 16px;
+  font-family: 'Roboto';
+  color: #fff;
+  font-weight: 500;
+  border-radius: 6px;
+} */
+
+.profile-card {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/profile-bg.png');
+  background-size: cover;
+  width: 300px;
+  padding-left: 18px;
+  padding-top: 20px;
+  height: 180px;
+  padding-right: 10px;
+  margin-left: 5px;
+}
+
+.profile-name {
+  color: #6366f1;
+  font-size: 18px;
+  font-weight: 500;
+}
+.profile-img {
+  width: 50px;
+}
+
+.profile-bio {
+  color: #7e858e;
+  font-size: 13px;
+  font-weight: 400;
+}
+
+.failure-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.loader-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
